@@ -1,7 +1,7 @@
 # Important note
 
 <p style='color:red'>This is the original code developer by axtloss, with the original LICENSE (GPL v3)
-Everything is posted as axtlos sent me, except for this README.md file</p>
+Everything is posted as axtlos sent me, except for this `# Important note` in this README.md file</p>
 
 # vAssistant
 
